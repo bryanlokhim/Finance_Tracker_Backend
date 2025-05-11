@@ -1,4 +1,6 @@
 # Finance Tracker Backend
+<img src="wealthy.jpg" width="600" alt="Climber scaling a steep cliff">
+
 A Python-based finance tracker using SQLite for data storage and CSV export functionality.
 ## Features
 - Add, view, and delete transactions
